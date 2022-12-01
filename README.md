@@ -1,2 +1,2 @@
 # calculadora-em-JS
-Uma calculadora simples em Javascript.
+Uma calculadora simples que fiz em Javascript.
